@@ -41,10 +41,10 @@ Always curious. Always building.
 
 ☽ SOCIAL ☾
 
-`GitHub   ` [github.com/siddhibaluja](https://github.com/siddhibaluja)
-`LinkedIn ` [linkedin.com/in/siddhibaluja](https://linkedin.com/in/siddhibaluja)
-`Twitter  ` [twitter.com/siddhibaluja](https://twitter.com/siddhibaluja)
-`Email    ` [siddhi@example.com](mailto:siddhi@example.com)
+`GitHub   ` [github.com/sidgodcyber](https://github.com/sidgodcyber)
+`LinkedIn ` [linkedin.com/in/siddhi-baluja-b248742b6](https://www.linkedin.com/in/siddhi-baluja-b248742b6)
+`Twitter  ` [twitter.com/sidgodcyber](https://twitter.com/sidgodcyber)
+`Email    ` [siddhibaluja06@gmail.com](mailto:siddhibaluja06@gmail.com)
 
       ✧
      ★ ☆
