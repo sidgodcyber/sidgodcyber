@@ -23,13 +23,19 @@ Always curious. Always building.
 ★ FEATURED PROJECTS ★
 
 **IonWatch** — Ionospheric scintillation monitoring and real-time space weather insights.
-  [github.com/siddhibaluja/ionwatch](https://github.com/siddhibaluja/ionwatch)
+  [github.com/sidgodcyber/ionwatch](https://github.com/sidgodcyber/ionwatch)
 
 **GNSS Guardian** — GPS-denied drone navigation using AI, optical flow and visual terrain mapping.
-  [github.com/siddhibaluja/gnss-guardian](https://github.com/siddhibaluja/gnss-guardian)
+  [github.com/sidgodcyber/gnss-guardian](https://github.com/sidgodcyber/gnss-guardian)
 
 **VERITAS** — Evidence-gated deepfake detection for financial communications.
-  [github.com/siddhibaluja/veritas](https://github.com/siddhibaluja/veritas)
+  [github.com/sidgodcyber/veritas](https://github.com/sidgodcyber/veritas)
+
+**Lunar PSR Ice F2** — Water-ice detection and mission planning for lunar south-pole crater F2.
+  [github.com/sidgodcyber/lunar-psr-ice-f2](https://github.com/sidgodcyber/lunar-psr-ice-f2)
+
+**Trishul Net** — Low-cost flash-flood early warning for Himalayan side valleys.
+  [github.com/sidgodcyber/trishul-net](https://github.com/sidgodcyber/trishul-net)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -37,7 +43,6 @@ Always curious. Always building.
 
 `GitHub   ` [github.com/sidgodcyber](https://github.com/sidgodcyber)
 `LinkedIn ` [linkedin.com/in/siddhi-baluja-b248742b6](https://www.linkedin.com/in/siddhi-baluja-b248742b6)
-`Twitter  ` [twitter.com/sidgodcyber](https://twitter.com/sidgodcyber)
 `Email    ` [siddhibaluja06@gmail.com](mailto:siddhibaluja06@gmail.com)
 
       ✧
