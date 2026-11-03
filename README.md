@@ -8,7 +8,7 @@ technology and turning concepts into real-world solutions.
 
 Always curious. Always building.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ☾ SKILLS & TECH STACK ☽
 
@@ -18,7 +18,7 @@ Always curious. Always building.
 `Hardware    Raspberry Pi · ESP32 · IoT · Embedded Systems · Sensors · Edge AI`
 `Tools       Git · GitHub · Docker · VS Code · Figma · Linux`
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ★ FEATURED PROJECTS ★
 
@@ -37,7 +37,7 @@ Always curious. Always building.
 **ORMIA** — Bio-inspired defence against cloned voices in banking calls.
   [github.com/siddhibaluja/ormia](https://github.com/siddhibaluja/ormia)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ☽ SOCIAL ☾
 
