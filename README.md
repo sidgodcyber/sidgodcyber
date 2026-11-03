@@ -31,9 +31,6 @@ Always curious. Always building.
 **VERITAS** — Evidence-gated deepfake detection for financial communications.
   [github.com/siddhibaluja/veritas](https://github.com/siddhibaluja/veritas)
 
-**Sand Grain Mapping System** — Low-cost camera-based sand grain analysis using computer vision.
-  [github.com/siddhibaluja/sand-grain-mapping-system](https://github.com/siddhibaluja/sand-grain-mapping-system)
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ☽ SOCIAL ☾
