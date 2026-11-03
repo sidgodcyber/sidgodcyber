@@ -34,9 +34,6 @@ Always curious. Always building.
 **Sand Grain Mapping System** — Low-cost camera-based sand grain analysis using computer vision.
   [github.com/siddhibaluja/sand-grain-mapping-system](https://github.com/siddhibaluja/sand-grain-mapping-system)
 
-**ORMIA** — Bio-inspired defence against cloned voices in banking calls.
-  [github.com/siddhibaluja/ormia](https://github.com/siddhibaluja/ormia)
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ☽ SOCIAL ☾
